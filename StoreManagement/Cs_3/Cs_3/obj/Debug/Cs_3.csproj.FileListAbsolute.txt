@@ -1,0 +1,152 @@
+C:\Users\Administrator\source\repos\Cs_3\Cs_3\bin\Debug\Cs_3.exe.config
+C:\Users\Administrator\source\repos\Cs_3\Cs_3\bin\Debug\Cs_3.exe
+C:\Users\Administrator\source\repos\Cs_3\Cs_3\bin\Debug\Cs_3.pdb
+C:\Users\Administrator\source\repos\Cs_3\Cs_3\obj\Debug\Cs_3.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Cs_3\Cs_3\obj\Debug\Cs_3.Form1.resources
+C:\Users\Administrator\source\repos\Cs_3\Cs_3\obj\Debug\Cs_3.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Cs_3\Cs_3\obj\Debug\Cs_3.exe
+C:\Users\Administrator\source\repos\Cs_3\Cs_3\obj\Debug\Cs_3.pdb
+C:\Users\Administrator\source\repos\Cs_3\Cs_3\obj\Debug\Cs_3.Main_Form2.resources
+C:\Users\Administrator\source\repos\Cs_3\Cs_3\obj\Debug\Cs_3.Users_UI.resources
+C:\Users\Administrator\source\repos\Cs_3\Cs_3\obj\Debug\Cs_3.Items_UI.resources
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\Cs_3.exe
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\Cs_3.exe.config
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Data.v22.2.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraScheduler.v22.2.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Images.v22.2.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Data.v22.2.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.SuggestedBindingRedirects.cache
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.Items_UI.resources
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.Main_Form2.resources
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.Properties.Resources.resources
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.Stocks_UI.resources
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.Stores_UI.resources
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.Users_UI.resources
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.GenerateResource.cache
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.CoreCompileInputs.cache
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.CopyComplete
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.exe
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.pdb
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\bin\Debug\Cs_3.pdb
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.logfile.resources
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.AssemblyReference.cache
+D:\XAMPP\htdocs\webservices\Cs_3\Cs_3\obj\Debug\Cs_3.LoginFrm.resources
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\Cs_3.exe.config
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\Cs_3.exe
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\Cs_3.pdb
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.AssemblyReference.cache
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.LoginFrm.resources
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.Items_UI.resources
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.logfile.resources
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.Main_Form2.resources
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.Properties.Resources.resources
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.Stocks_UI.resources
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.Stores_UI.resources
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.Users_UI.resources
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.GenerateResource.cache
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.CoreCompileInputs.cache
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.CopyComplete
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.exe
+C:\Users\ialha\Desktop\مشروع أ.حسان\Cs_3\Cs_3\obj\Debug\Cs_3.pdb
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\Cs_3.exe.config
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\Cs_3.exe
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\Cs_3.pdb
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.Images.v22.2.dll
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.Data.v22.2.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.AssemblyReference.cache
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.SuggestedBindingRedirects.cache
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.LoginFrm.resources
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.Items_UI.resources
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.logfile.resources
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.Main_Form2.resources
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.Properties.Resources.resources
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.Stocks_UI.resources
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.Stores_UI.resources
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.Users_UI.resources
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.GenerateResource.cache
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.CoreCompileInputs.cache
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.csproj.CopyComplete
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.exe
+D:\projects\مشاريع ترم اول 3\مشروع تكاملية  عملي نهائي\Cs_3\Cs_3\obj\Debug\Cs_3.pdb
